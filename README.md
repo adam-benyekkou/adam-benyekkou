@@ -45,7 +45,7 @@ Workstation/
     │   ├── NodeJS_Express/
     │   ├── Typescript/
     │   └── PHP/
-    │
+    │   └── Python/
     └── Data/
         ├── PostgreSQL/
         └── MongoDB/
