@@ -43,8 +43,8 @@ Workstation/
     │
     ├── Back/
     │   ├── NodeJS_Express/
-    │   └── JavaScript/
-    │
+    │   └── Typescript/
+    |   └── PHP/
     └── Data/
         ├── PostgreSQL/
         └── MongoDB/
@@ -86,11 +86,14 @@ Current focus:
   COMMUNICATION CHANNELS READY
   AWAITING CONNECTION...
   </pre>
-  
+  <p>
+    <a href="mailto:adam.benyekkou.pro@hotmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/adambnk/)"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  </p>
   <!-- 
   <p>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:adam.benyekkou.pro@hotmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/adambnk/)"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
   -->
