@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25" /> Unit Profile: Junior Web Developer
+# # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25" /> Unit Profile: Adam - Benyekkou Web Developer
 
 <div align="center">
   
@@ -23,39 +23,6 @@ Black Box temperature: Normal
 All systems operational.
 ```
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="25" height="25" /> Skills Matrix
-
-<table>
-  <tr>
-    <th align="left">Frontend Systems</th>
-    <th align="left">Backend Operations</th>
-    <th align="left">Data Management</th>
-    <th align="left">DevOps Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="15"/> Angular<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="15"/> Tailwind CSS<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="15"/> HTML5<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="15"/> CSS3
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="15"/> Node.js<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="15"/> Express<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/> JavaScript
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width="15"/> PostgreSQL<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="15"/> MongoDB
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-plain.svg" width="15"/> WebStorm<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="15"/> Git<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="15"/> Docker
-    </td>
-  </tr>
-</table>
-
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" width="25" height="25" /> Development Environment
 
 ```
@@ -64,7 +31,7 @@ Workstation/
 │   ├── Webstorm/
 │   ├── Git/
 │   └── Docker/
-└── Programming/
+└── Dev/
     ├── Front/
     │   ├── Angular/
     │   ├── Tailwind/
