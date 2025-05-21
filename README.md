@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25" /> Unit Profile: Adam - Benyekkou Web Developer
+# Unit Profile: Adam Benyekkou - Web Developer
 
 <div align="center">
   
@@ -18,10 +18,16 @@
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25" height="25" /> Identification
 
 ```
-Technology cores: Angular | Tailwind | Node.js | PostgreSQL
+Technology cores: Angular | Tailwind | PHP | PostgreSQL
 Black Box temperature: Normal
 All systems operational.
 ```
+
+## About Me
+
+I'm Adam, a junior web developer based in France with a passion for creating elegant, functional web applications. My journey in tech is driven by curiosity and a desire to build meaningful digital experiences.
+
+Currently focused on expanding my skillset with PHP Symfony and Three.js to bring more dynamic and interactive elements to my projects. Always looking for opportunities to collaborate and grow as a developer.
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" width="25" height="25" /> Development Environment
 
@@ -53,13 +59,11 @@ SYSTEM ANALYZING DEVELOPMENT TRAJECTORY...
 IDENTIFYING POTENTIAL UPGRADE PATHS...
 ```
 
-<!-- 
-  Future learning goals:
-  - TypeScript mastery
-  - React exploration
-  - Cloud deployment (AWS/Azure)
-  - Mobile development
--->
+Current focus:
+- PHP Symfony framework
+- Three.js for 3D web experiences
+- Advanced Angular patterns with NGRX
+- Design Patterns and Algorithms
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25" /> Contact Protocols
 
