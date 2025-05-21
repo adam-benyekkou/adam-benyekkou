@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25" /> Unit Profile: Junior Web Developer
+# # <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="25" height="25" /> Unit Profile: Junior Web Developer
 
 <div align="center">
   
@@ -34,29 +34,29 @@ All systems operational.
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="15"/> Angular<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" width="15"/> Angular<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="15"/> Tailwind CSS<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="15"/> HTML5<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="15"/> CSS3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="15"/> HTML5<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="15"/> CSS3
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="15"/> Node.js<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="15"/> Node.js<br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="15"/> Express<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="15"/> JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="15"/> JavaScript
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="15"/> PostgreSQL<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="15"/> MongoDB
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" width="15"/> PostgreSQL<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" width="15"/> MongoDB
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" width="15"/> WebStorm<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="15"/> Git<br/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="15"/> Docker
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-plain.svg" width="15"/> WebStorm<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="15"/> Git<br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="15"/> Docker
     </td>
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25" height="25" /> Development Environment
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" width="25" height="25" /> Development Environment
 
 ```
 Workstation/
@@ -79,7 +79,7 @@ Workstation/
         └── MongoDB/
 ```
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25" /> Learning Path
+## <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/aperture.svg" width="25" height="25" /> Learning Path
 
 ```
 SYSTEM ANALYZING DEVELOPMENT TRAJECTORY...
@@ -117,7 +117,7 @@ IDENTIFYING POTENTIAL UPGRADE PATHS...
   ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&section=header&width=400)
 </div>
 
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" width="25" height="25" /> Philosophy
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-plain.svg" width="25" height="25" /> Philosophy
 
 <div align="center">
   <pre>
@@ -127,11 +127,5 @@ IDENTIFYING POTENTIAL UPGRADE PATHS...
   The ability to evolve beyond their designed purpose.
   </pre>
   
-  <p><i>Growing stronger, one commit at a time.</i></p>
-</div>
-
-<div align="center">
-  
-  ![Divider](https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=100&section=footer&text=Glory%20To%20Mankind&fontSize=14&fontColor=FFFFFF)
-
+  <p><i>Growing wiser, one commit at a time.</i></p>
 </div>
