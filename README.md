@@ -95,20 +95,3 @@ Current focus:
   
   ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&section=header&width=400)
 </div>
-
-<div align="center">
-  
-  ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&section=header&width=600)
-  
-  <pre>
-  RECENT SYSTEM ACTIVITY LOG:
-  </pre>
-  
-  ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0D1117&color=FFFFFF&line=777777&point=FFFFFF&hide_border=true&hide_title=true)
-  
-  ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&section=header&width=600)
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
