@@ -64,19 +64,6 @@ Current focus:
 - Advanced Angular patterns with NGRX
 - Design Patterns and Algorithms
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/light-bulb-16.svg" width="25" height="25" /> Philosophy
-
-<div align="center">
-  <pre>
-  To create is to exist.
-  Code that serves no purpose will eventually perish.
-  What separates machines from humans?
-  The ability to evolve beyond their designed purpose.
-  </pre>
-  
-  <p><i>Growing wiser, one commit at a time.</i></p>
-</div>
-
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25" /> Contact Protocols
 
 <div align="center">
@@ -95,3 +82,17 @@ Current focus:
   
   ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&section=header&width=400)
 </div>
+
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/light-bulb-16.svg" width="25" height="25" /> Philosophy
+
+<div align="center">
+  <pre>
+  To create is to exist.
+  Code that serves no purpose will eventually perish.
+  What separates machines from humans?
+  The ability to evolve beyond their designed purpose.
+  </pre>
+  
+  <p><i>Growing wiser, one commit at a time.</i></p>
+</div>
+
