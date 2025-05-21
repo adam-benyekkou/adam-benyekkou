@@ -108,7 +108,7 @@ Current focus:
   ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&section=header&width=400)
 </div>
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/milestone-16.svg" width="25" height="25" /> Philosophy
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/light-bulb-16.svg" width="25" height="25" /> Philosophy
 
 <div align="center">
   <pre>
