@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> YoRHa Unit Profile: Junior Web Developer
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25" /> Unit Profile: Junior Web Developer
 
 <div align="center">
   
@@ -15,7 +15,7 @@
   ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&section=header&width=600)
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="25" height="25" /> Identification
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25" height="25" /> Identification
 
 ```
 Technology cores: Angular | Tailwind | Node.js | PostgreSQL
@@ -23,7 +23,7 @@ Black Box temperature: Normal
 All systems operational.
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Skills Matrix
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" width="25" height="25" /> Skills Matrix
 
 <table>
   <tr>
@@ -56,7 +56,7 @@ All systems operational.
   </tr>
 </table>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> Development Environment
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="25" height="25" /> Development Environment
 
 ```
 Workstation/
@@ -79,7 +79,7 @@ Workstation/
         └── MongoDB/
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Learning Path
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25" /> Learning Path
 
 ```
 SYSTEM ANALYZING DEVELOPMENT TRAJECTORY...
@@ -94,7 +94,7 @@ IDENTIFYING POTENTIAL UPGRADE PATHS...
   - Mobile development
 -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" alt="Communication" width="25" height="25" /> Contact Protocols
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25" /> Contact Protocols
 
 <div align="center">
   
@@ -117,7 +117,7 @@ IDENTIFYING POTENTIAL UPGRADE PATHS...
   ![Divider](https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=1&section=header&width=400)
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Idea" width="25" height="25" /> Philosophy
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" width="25" height="25" /> Philosophy
 
 <div align="center">
   <pre>
