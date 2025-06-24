@@ -59,7 +59,7 @@ IDENTIFYING POTENTIAL UPGRADE PATHS...
 ```
 
 Current focus:
-- PHP Symfony framework
+- PHP Laravel framework
 - Three.js for 3D web experiences
 - Advanced Angular patterns with NGRX
 - Design Patterns and Algorithms
