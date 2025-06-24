@@ -22,7 +22,7 @@ Currently focused on expanding my skillset with PHP Symfony and Three.js to brin
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="25" height="25" /> Identification
 
 ```
-Technology cores: Angular | Tailwind | PHP | PostgreSQL
+Technology cores: Angular | Tailwind | PHP | Python | PostgreSQL
 Black Box temperature: Normal
 All systems operational.
 ```
@@ -45,7 +45,7 @@ Workstation/
     │   ├── NodeJS_Express/
     │   ├── Typescript/
     │   └── PHP/
-    │   └── Python/
+    │   └── Python/Django
     └── Data/
         ├── PostgreSQL/
         └── MongoDB/
