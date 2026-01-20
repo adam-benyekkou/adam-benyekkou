@@ -29,7 +29,6 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 - [Structure Over Chaos: Why I Build My Frontend in Angular](https://cavydev.com/structure-over-chaos-why-i-build-my-frontend-in-angular/?utm_source=rss&utm_medium=rss&utm_campaign=structure-over-chaos-why-i-build-my-frontend-in-angular)
 - [From Nginx Proxy Manager to Traefik: Why I Automated My Reverse Proxy](https://cavydev.com/from-nginx-proxy-manager-to-traefik-why-i-automated-my-reverse-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=from-nginx-proxy-manager-to-traefik-why-i-automated-my-reverse-proxy)
 - [From .env to HashiCorp Vault: Stop Leaving Your Digital Keys Under the Doormat](https://cavydev.com/from-env-to-hashicorp-vault-stop-leaving-your-digital-keys-under-the-doormat/?utm_source=rss&utm_medium=rss&utm_campaign=from-env-to-hashicorp-vault-stop-leaving-your-digital-keys-under-the-doormat)
-- [Building my Homelab’s Dashboard with Homarr: Putting a GUI on My CLI Obsession](https://cavydev.com/building-my-homelabs-dashboard-putting-a-gui-on-my-cli-obsession/?utm_source=rss&utm_medium=rss&utm_campaign=building-my-homelabs-dashboard-putting-a-gui-on-my-cli-obsession)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
