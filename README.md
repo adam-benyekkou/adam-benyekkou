@@ -19,11 +19,11 @@ I am a **Senior Support Specialist** transitioning into a dual **Junior Develope
 
 I "Build in Public" on my blog, documenting technical deep-dives into cloud architecture and the philosophy of modern engineering.
 <br>
+
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rss-24.svg" width="25" height="25" /> Latest Transmissions
 
 <br>
 
-*Latest logs from [cavydev.com](https://cavydev.com)...*
 <br>
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/stack-24.svg" width="25" height="25" /> Dev & Ops Environment
