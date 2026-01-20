@@ -14,5 +14,5 @@ jobs:
       - name: Pull in cavydev.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://cavydev.com/sitemap.rss"
+          feed_list: "https://cavydev.com/feed/"
           max_post_count: 5
