@@ -23,7 +23,8 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rss-24.svg" width="25" height="25" /> Latest Transmissions
 
 <br>
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <br>
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/stack-24.svg" width="25" height="25" /> Dev & Ops Environment
