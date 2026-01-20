@@ -1,9 +1,10 @@
 name: Latest blog post workflow
 on:
   schedule:
+    # S'exécute tous les jours à minuit
     - cron: '0 0 * * *'
   workflow_dispatch: 
-
+  
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -14,6 +15,7 @@ jobs:
       - name: Pull in cavydev.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://cavydev.com/rss.xml" # 
+          feed_list: "https://cavydev.com/sitemap.rss"
           max_post_count: 5
           template: "* [$title]($url)"
+          tag_post_pre_newline: true
