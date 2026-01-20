@@ -25,11 +25,11 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Structure Over Chaos: Why I Build My Frontend in Angular](https://cavydev.com/structure-over-chaos-why-i-build-my-frontend-in-angular/)
-- [The CavyDev Manifesto: Beyond the Hay-Eating Chaos](https://cavydev.com/the-cavydev-manifesto/)
-- [Firing My Cloud Providers: Because “Managed Services” is Just French for “Double the Price”](https://cavydev.com/why-i-took-the-jump-the-shift-to-self-managed-infrastructure/)
-- [Why I Chose Hetzner: Because My Wallet is Not an AWS Charity](https://cavydev.com/why-i-chose-hetzner-breaking-free-from-the-black-box-of-modern-hosting/)
-- [Gitea vs. GitLab: Why I Refused the “Gas Plant” for my GitOps](https://cavydev.com/gitea-vs-gitlab-why-i-refused-the-gas-plant-for-my-gitops/)
+- [Structure Over Chaos: Why I Build My Frontend in Angular](https://cavydev.com/structure-over-chaos-why-i-build-my-frontend-in-angular/?utm_source=rss&utm_medium=rss&utm_campaign=structure-over-chaos-why-i-build-my-frontend-in-angular)
+- [From Nginx Proxy Manager to Traefik: Why I Automated My Reverse Proxy](https://cavydev.com/from-nginx-proxy-manager-to-traefik-why-i-automated-my-reverse-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=from-nginx-proxy-manager-to-traefik-why-i-automated-my-reverse-proxy)
+- [From .env to HashiCorp Vault: Stop Leaving Your Digital Keys Under the Doormat](https://cavydev.com/from-env-to-hashicorp-vault-stop-leaving-your-digital-keys-under-the-doormat/?utm_source=rss&utm_medium=rss&utm_campaign=from-env-to-hashicorp-vault-stop-leaving-your-digital-keys-under-the-doormat)
+- [Building my Homelab’s Dashboard: Putting a GUI on My CLI Obsession](https://cavydev.com/building-my-homelabs-dashboard-putting-a-gui-on-my-cli-obsession/?utm_source=rss&utm_medium=rss&utm_campaign=building-my-homelabs-dashboard-putting-a-gui-on-my-cli-obsession)
+- [Writing Documentation is Love: Because Future-Me is a Forgetful Stranger](https://cavydev.com/writing-documentation-is-love-because-future-me-is-a-forgetful-stranger/?utm_source=rss&utm_medium=rss&utm_campaign=writing-documentation-is-love-because-future-me-is-a-forgetful-stranger)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
