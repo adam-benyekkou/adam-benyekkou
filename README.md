@@ -25,7 +25,11 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Structure Over Chaos: Why I Build My Frontend in Angular](https://cavydev.com/structure-over-chaos-why-i-build-my-frontend-in-angular/)
+- [The CavyDev Manifesto: Beyond the Hay-Eating Chaos](https://cavydev.com/the-cavydev-manifesto/)
+- [Firing My Cloud Providers: Because “Managed Services” is Just French for “Double the Price”](https://cavydev.com/why-i-took-the-jump-the-shift-to-self-managed-infrastructure/)
+- [Why I Chose Hetzner: Because My Wallet is Not an AWS Charity](https://cavydev.com/why-i-chose-hetzner-breaking-free-from-the-black-box-of-modern-hosting/)
+- [Gitea vs. GitLab: Why I Refused the “Gas Plant” for my GitOps](https://cavydev.com/gitea-vs-gitlab-why-i-refused-the-gas-plant-for-my-gitops/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
