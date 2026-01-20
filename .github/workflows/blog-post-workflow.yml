@@ -1,10 +1,9 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # S'exécute tous les jours à minuit
-    - cron: '0 0 * * *'
-  workflow_dispatch: 
-  
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -17,7 +16,3 @@ jobs:
         with:
           feed_list: "https://cavydev.com/sitemap.rss"
           max_post_count: 5
-          template: "* [$title]($url)\n"
-          tag_post_pre_newline: true
-          committer_username: "github-actions[bot]"
-          committer_email: "github-actions[bot]@users.noreply.github.com"
