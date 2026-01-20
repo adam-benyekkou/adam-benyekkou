@@ -25,11 +25,11 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Dockge: The Minimalist’s Answer to “Where Did I Put That Compose File?”](https://cavydev.com/dockge-the-minimalists-answer-to-where-did-i-put-that-compose-file/?utm_source=rss&utm_medium=rss&utm_campaign=dockge-the-minimalists-answer-to-where-did-i-put-that-compose-file)
 - [Structure Over Chaos: Why I Build My Frontend in Angular](https://cavydev.com/structure-over-chaos-why-i-build-my-frontend-in-angular/?utm_source=rss&utm_medium=rss&utm_campaign=structure-over-chaos-why-i-build-my-frontend-in-angular)
 - [From Nginx Proxy Manager to Traefik: Why I Automated My Reverse Proxy](https://cavydev.com/from-nginx-proxy-manager-to-traefik-why-i-automated-my-reverse-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=from-nginx-proxy-manager-to-traefik-why-i-automated-my-reverse-proxy)
 - [From .env to HashiCorp Vault: Stop Leaving Your Digital Keys Under the Doormat](https://cavydev.com/from-env-to-hashicorp-vault-stop-leaving-your-digital-keys-under-the-doormat/?utm_source=rss&utm_medium=rss&utm_campaign=from-env-to-hashicorp-vault-stop-leaving-your-digital-keys-under-the-doormat)
-- [Building my Homelab’s Dashboard: Putting a GUI on My CLI Obsession](https://cavydev.com/building-my-homelabs-dashboard-putting-a-gui-on-my-cli-obsession/?utm_source=rss&utm_medium=rss&utm_campaign=building-my-homelabs-dashboard-putting-a-gui-on-my-cli-obsession)
-- [Writing Documentation is Love: Because Future-Me is a Forgetful Stranger](https://cavydev.com/writing-documentation-is-love-because-future-me-is-a-forgetful-stranger/?utm_source=rss&utm_medium=rss&utm_campaign=writing-documentation-is-love-because-future-me-is-a-forgetful-stranger)
+- [Building my Homelab’s Dashboard with Homarr: Putting a GUI on My CLI Obsession](https://cavydev.com/building-my-homelabs-dashboard-putting-a-gui-on-my-cli-obsession/?utm_source=rss&utm_medium=rss&utm_campaign=building-my-homelabs-dashboard-putting-a-gui-on-my-cli-obsession)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
