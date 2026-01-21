@@ -25,10 +25,10 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The K8s Noob Trap: Why I’m Earning My Way to the Orchestrator](https://cavydev.com/the-k8s-noob-trap-why-im-earning-my-way-to-the-orchestrator/?utm_source=rss&utm_medium=rss&utm_campaign=the-k8s-noob-trap-why-im-earning-my-way-to-the-orchestrator)
 - [Building in Public is Terrifying &lpar;And Why You Must Do It Anyway&rpar;](https://cavydev.com/building-in-public-is-terrifying-and-why-you-must-do-it-anyway/?utm_source=rss&utm_medium=rss&utm_campaign=building-in-public-is-terrifying-and-why-you-must-do-it-anyway)
 - [Dockge: The Minimalist’s Answer to “Where Did I Put That Compose File?”](https://cavydev.com/dockge-the-minimalists-answer-to-where-did-i-put-that-compose-file/?utm_source=rss&utm_medium=rss&utm_campaign=dockge-the-minimalists-answer-to-where-did-i-put-that-compose-file)
 - [Structure Over Chaos: Why I Build My Frontend in Angular](https://cavydev.com/structure-over-chaos-why-i-build-my-frontend-in-angular/?utm_source=rss&utm_medium=rss&utm_campaign=structure-over-chaos-why-i-build-my-frontend-in-angular)
-- [From Nginx Proxy Manager to Traefik: Why I Automated My Reverse Proxy](https://cavydev.com/from-nginx-proxy-manager-to-traefik-why-i-automated-my-reverse-proxy/?utm_source=rss&utm_medium=rss&utm_campaign=from-nginx-proxy-manager-to-traefik-why-i-automated-my-reverse-proxy)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
