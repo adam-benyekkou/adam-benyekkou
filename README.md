@@ -25,10 +25,10 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Iron Throne of Stability: Building Infrastructure on Debian Bedrock](https://cavydev.com/the-iron-throne-of-stability-building-infrastructure-on-debian-bedrock/?utm_source=rss&utm_medium=rss&utm_campaign=the-iron-throne-of-stability-building-infrastructure-on-debian-bedrock)
 - [Rise from the Ashes: My Automated Disaster Recovery Setup](https://cavydev.com/rise-from-the-ashes-my-automated-disaster-recovery-setup/?utm_source=rss&utm_medium=rss&utm_campaign=rise-from-the-ashes-my-automated-disaster-recovery-setup)
 - [Teaching Old Servers New Tricks with Ansible Playbooks](https://cavydev.com/teaching-old-servers-new-tricks-with-ansible-playbooks/?utm_source=rss&utm_medium=rss&utm_campaign=teaching-old-servers-new-tricks-with-ansible-playbooks)
 - [Spinning Servers Faster Than I Can Regret My Decisions &lpar;via Terraform&rpar;](https://cavydev.com/spinning-servers-faster-than-i-can-regret-my-decisions-via-terraform/?utm_source=rss&utm_medium=rss&utm_campaign=spinning-servers-faster-than-i-can-regret-my-decisions-via-terraform)
-- [Stop Praying, Start Backing Up: Restic for the Modern Operator](https://cavydev.com/stop-praying-start-backing-up-restic-for-the-modern-operator/?utm_source=rss&utm_medium=rss&utm_campaign=stop-praying-start-backing-up-restic-for-the-modern-operator)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
