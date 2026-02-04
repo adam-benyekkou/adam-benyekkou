@@ -25,10 +25,10 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Infrastructure that Mends Itself: Proactive vs Reactive Ops](https://cavydev.com/infrastructure-that-mends-itself-proactive-vs-reactive-ops/?utm_source=rss&utm_medium=rss&utm_campaign=infrastructure-that-mends-itself-proactive-vs-reactive-ops)
 - [The Docker Security Myth: Diving into Container Isolation](https://cavydev.com/the-docker-security-myth-diving-into-container-isolation/?utm_source=rss&utm_medium=rss&utm_campaign=the-docker-security-myth-diving-into-container-isolation)
 - [The Iron Throne of Stability: Building Infrastructure on Debian Bedrock](https://cavydev.com/the-iron-throne-of-stability-building-infrastructure-on-debian-bedrock/?utm_source=rss&utm_medium=rss&utm_campaign=the-iron-throne-of-stability-building-infrastructure-on-debian-bedrock)
 - [Rise from the Ashes: My Automated Disaster Recovery Setup](https://cavydev.com/rise-from-the-ashes-my-automated-disaster-recovery-setup/?utm_source=rss&utm_medium=rss&utm_campaign=rise-from-the-ashes-my-automated-disaster-recovery-setup)
-- [Teaching Old Servers New Tricks with Ansible Playbooks](https://cavydev.com/teaching-old-servers-new-tricks-with-ansible-playbooks/?utm_source=rss&utm_medium=rss&utm_campaign=teaching-old-servers-new-tricks-with-ansible-playbooks)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
