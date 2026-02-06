@@ -25,10 +25,10 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [The Vercel Trap: Why I Won’t Touch “Managed Convenience” with a 10-foot Pole](https://cavydev.com/the-vercel-trap-why-i-wont-touch-managed-convenience-with-a-10-foot-pole/?utm_source=rss&utm_medium=rss&utm_campaign=the-vercel-trap-why-i-wont-touch-managed-convenience-with-a-10-foot-pole)
 - [The “Act First” Disaster: Why AI Hype is a Security Nightmare](https://cavydev.com/the-act-first-disaster-why-ai-hype-is-a-security-nightmare/?utm_source=rss&utm_medium=rss&utm_campaign=the-act-first-disaster-why-ai-hype-is-a-security-nightmare)
 - [Infrastructure that Mends Itself: Proactive vs Reactive Ops](https://cavydev.com/infrastructure-that-mends-itself-proactive-vs-reactive-ops/?utm_source=rss&utm_medium=rss&utm_campaign=infrastructure-that-mends-itself-proactive-vs-reactive-ops)
 - [The Docker Security Myth: Diving into Container Isolation](https://cavydev.com/the-docker-security-myth-diving-into-container-isolation/?utm_source=rss&utm_medium=rss&utm_campaign=the-docker-security-myth-diving-into-container-isolation)
-- [The Iron Throne of Stability: Building Infrastructure on Debian Bedrock](https://cavydev.com/the-iron-throne-of-stability-building-infrastructure-on-debian-bedrock/?utm_source=rss&utm_medium=rss&utm_campaign=the-iron-throne-of-stability-building-infrastructure-on-debian-bedrock)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
