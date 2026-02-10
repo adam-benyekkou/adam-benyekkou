@@ -25,10 +25,10 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Hosting is a Part-Time Job &lpar;And Why It’s Worth It&rpar;](https://cavydev.com/self-hosting-is-a-part-time-job-and-why-its-worth-it/?utm_source=rss&utm_medium=rss&utm_campaign=self-hosting-is-a-part-time-job-and-why-its-worth-it)
 - [Digital Minimalism: Why My Server and My Guinea Pigs Have the Same Diet](https://cavydev.com/digital-minimalism-why-my-server-and-my-guinea-pigs-have-the-same-diet/?utm_source=rss&utm_medium=rss&utm_campaign=digital-minimalism-why-my-server-and-my-guinea-pigs-have-the-same-diet)
 - [The Vercel Trap: Why I Won’t Touch “Managed Convenience” with a 10-foot Pole](https://cavydev.com/the-vercel-trap-why-i-wont-touch-managed-convenience-with-a-10-foot-pole/?utm_source=rss&utm_medium=rss&utm_campaign=the-vercel-trap-why-i-wont-touch-managed-convenience-with-a-10-foot-pole)
 - [The “Act First” Disaster: Why AI Hype is a Security Nightmare](https://cavydev.com/the-act-first-disaster-why-ai-hype-is-a-security-nightmare/?utm_source=rss&utm_medium=rss&utm_campaign=the-act-first-disaster-why-ai-hype-is-a-security-nightmare)
-- [Infrastructure that Mends Itself: Proactive vs Reactive Ops](https://cavydev.com/infrastructure-that-mends-itself-proactive-vs-reactive-ops/?utm_source=rss&utm_medium=rss&utm_campaign=infrastructure-that-mends-itself-proactive-vs-reactive-ops)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
