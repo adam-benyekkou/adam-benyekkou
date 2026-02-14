@@ -8,21 +8,29 @@
   </pre>
 </div>
 
+
 ---
 <br>
 
+
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-24.svg" width="25" height="25" /> About The Operator
+
 
 <br>
 
+
 I am a **Senior Support Specialist** transitioning into a dual **Junior Developer & DevOps** role. I bridge the gap between clean, scalable code and resilient, automated infrastructure.
+
 
 I "Build in Public" on my blog, documenting technical deep-dives into cloud architecture and the philosophy of modern engineering.
 <br>
 
+
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rss-24.svg" width="25" height="25" /> Latest Blog Transmissions
 
+
 <br>
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Self-Hosting is a Part-Time Job &lpar;And Why It’s Worth It&rpar;](https://cavydev.com/self-hosting-is-a-part-time-job-and-why-its-worth-it/?utm_source=rss&utm_medium=rss&utm_campaign=self-hosting-is-a-part-time-job-and-why-its-worth-it)
@@ -31,11 +39,15 @@ I "Build in Public" on my blog, documenting technical deep-dives into cloud arch
 - [The “Act First” Disaster: Why AI Hype is a Security Nightmare](https://cavydev.com/the-act-first-disaster-why-ai-hype-is-a-security-nightmare/?utm_source=rss&utm_medium=rss&utm_campaign=the-act-first-disaster-why-ai-hype-is-a-security-nightmare)
 <!-- BLOG-POST-LIST:END -->
 
+
 <br>
+
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/stack-24.svg" width="25" height="25" /> Dev & Ops Environment
 
+
 <br>
+
 
 ```text
 Workstation/
@@ -50,82 +62,63 @@ Workstation/
 │   │   └── Java (Spring Boot)           │   │   ├── Docker
 │   └── Tools/                           │   │   └── Backblaze B2 (Backup)
 │       ├── Webstorm                     │   └── Observability & Security/
-│       └── Git                              ├── Prometheus & Grafana
-│                                            └── Authentik & Vault
-└── Data/
+│       └── Git                          │       ├── Prometheus & Grafana
+└── Data/                                │       └── Authentik & Vault
     ├── PostgreSQL
     └── MongoDB
 ```
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/codespaces-24.svg" width="25" height="25" /> Things I've Built
-
-<br>
+## Things I've Built
 
 ### 🐹 CavyDev Blog
-My "Build in Public" headquarters. A custom platform where I document technical deep-dives into cloud architecture, automation, and the philosophy of modern engineering.<br>
+My "Build in Public" headquarters. A custom platform where I document technical deep-dives into cloud architecture, automation, and the philosophy of modern engineering.
 [Read the deep-dives](https://cavydev.com)
 
-
-
 ### 🏗️ Docker-Powered Homelab
-My personal playground for self-hosting and infrastructure management. Orchestrated with **Docker** and **Traefik**, focusing on high availability and automated TLS management.<br>
-[View Source](https://github.com/adam-benyekkou/my-homelab)
+My personal playground for self-hosting and infrastructure management. Orchestrated with Docker and Traefik, focusing on high availability and automated TLS management.
+[View Source](#)
 
-
+### ⚡ Sible - Lightweight Ansible Orchestrator
+A sovereign, "Zero-Bloat" UI for Ansible designed for SREs. Built with FastAPI and HTMX, it features real-time WebSocket logging, agentless SSH execution, and a secure, GitOps-friendly workflow.
+[View Source](#)
 
 ### ✨ 3D Immersive Portfolio
-A high-performance showcase built with **Angular** and **Three.js**. It features interactive 3D environments to bridge the gap between documentation and creative web experiences.<br>
-[View Source](https://github.com/adam-benyekkou/my_portfolio)
-
+A high-performance showcase built with Angular and Three.js. It features interactive 3D environments to bridge the gap between documentation and creative web experiences.
+[View Source](#)
 
 ### 🗺️ Mobility Simulation Interface
-A professional dashboard developed with **Python Dash** for the open-source **"Mobility"** library, allowing complex displacement simulations via a GUI, and a complete automated testing strategy with **¨Pytest**.<br>
-[View Source](https://github.com/adam-benyekkou/mobility-arep-internship)
-
+A professional dashboard developed with Python Dash for the open-source "Mobility" library, allowing complex displacement simulations via a GUI, and a complete automated testing strategy with Pytest.
+[View Source](#)
 
 ### 🛒 GreenRoots Sustainable E-Commerce Platform
-An eco-conceived, high-performance shop built with **React** and **Express**, featuring **Stripe** integration and custom **JWT Authentication**.<br>
-[View Source](https://github.com/adam-benyekkou/greenroots-ecom)
-<br>
-<br>
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rocket-24.svg" width="25" height="25" /> Learning Path
+An eco-conceived, high-performance shop built with React and Express, featuring Stripe integration and custom JWT Authentication.
+[View Source](#)
 
 <br>
+
+## Learning Path
 
 **Current focus:**
 
-* **Cloud Infrastructure:** Automating my Hetzner environment using Terraform & Ansible for full "Reproducible Labs".
-* **Enterprise Backend:** Mastering **Java & Spring Boot** ecosystem for building robust, type-safe microservices.
-* **Visual Computing:** Exploring 3D experiences and interactive front-ends with Three.js.
-* **GitOps Methodology:** Transitioning manual Docker deployments toward automated GitOps workflows.
+*   **Cloud Infrastructure:** Automating my Hetzner environment using Terraform & Ansible for full "Reproducible Labs".
+*   **Enterprise Backend:** Mastering Java & Spring Boot ecosystem for building robust, type-safe microservices.
+*   **Visual Computing:** Exploring 3D experiences and interactive front-ends with Three.js.
+*   **GitOps Methodology:** Transitioning manual Docker deployments toward automated GitOps workflows.
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/comment-discussion-24.svg" width="25" height="25" /> Contact Protocols
+## Contact Protocols
+
+- [Email](mailto:cavy.protocol.dev@proton.me)
+- [LinkedIn](https://www.linkedin.com/in/adambnk/)
+- [Blog](https://cavydev.com)
 
 <br>
 
-<div align="center">
-  <p>
-    <a href="mailto:adam.benyekkou.work@proton.me" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=flat&logo=protonmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/adambnk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://cavydev.com" target="_blank"><img src="https://img.shields.io/badge/Blog-cavydev.com-000000?style=flat" alt="Blog"/></a>
-  </p>
-</div>
-
-
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/light-bulb-24.svg" width="25" height="25" /> Philosophy
-
-<br>
-
-<div align="center">
+## Philosophy
 
 > "To create is to exist. Code that serves no purpose perishes. Humans differ from machines by their ability to evolve beyond their designed purpose."
 
-<br>
-
-*Growing wiser, one commit at a time.*
-
-</div>
+Growing wiser, one commit at a time.
