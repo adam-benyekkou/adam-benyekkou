@@ -88,27 +88,23 @@ My personal playground for self-hosting and infrastructure management. Orchestra
 A high-performance showcase built with Angular and Three.js. It features interactive 3D environments to bridge the gap between documentation and creative web experiences.
 [View Source](https://github.com/adam-benyekkou/my_portfolio)
 
+### 🛒 GreenRoots Sustainable E-Commerce Platform
+A high-fidelity sustainable e-commerce platform engineered for automated delivery, featuring multi-environment Docker orchestration and rigorous Playwright E2E testing.
+[View Source](https://github.com/adam-benyekkou/greenroots-ecom)
+
 ### 🗺️ Mobility Simulation Interface
 A professional dashboard developed with Python Dash for the open-source "Mobility" library, allowing complex displacement simulations via a GUI, and a complete automated testing strategy with Pytest.
 [View Source](https://github.com/adam-benyekkou/mobility-web)
-
-### 🐹 CavyDev Blog
-My "Build in Public" headquarters. A custom platform where I document technical deep-dives into cloud architecture, automation, and the philosophy of modern engineering.
-[Read the deep-dives](https://cavydev.com)
-
-### 🛒 GreenRoots Sustainable E-Commerce Platform
-An eco-conceived, high-performance shop built with React and Express, featuring Stripe integration and custom JWT Authentication.
-[View Source](https://github.com/adam-benyekkou/greenroots-ecom)
 
 <br>
 
 ## Learning Path
 
-**Current focus:**
+**Current Technical Roadmap / Active Initiatives:**
 
-*   **Cloud Infrastructure:** Automating my Hetzner environment using Terraform & Ansible for full "Reproducible Labs".
-*   **Enterprise Backend:** Mastering Java & Spring Boot ecosystem for building robust, type-safe microservices.
-*   **GitOps Methodology:** Transitioning manual Docker deployments toward automated GitOps workflows.
+*   **Cloud Native Migration:** Upgrading infrastructure from Docker Compose to Kubernetes (K3s) to implement self-healing and auto-scaling capabilities.
+*   **GitOps Evolution:** Replacing push-based Ansible deployments with pull-based ArgoCD pipelines for fully declarative, audit-friendly cluster management.
+*   **Agentic Orchestration:** Mastering multi-agent patterns and multi-model consensus (Claude/Gemini) via OpenCode to build robust, self-correcting development workflows.
 
 <br>
 
