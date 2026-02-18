@@ -74,7 +74,7 @@ A secure, self-hosted vault for managing infrastructure secrets and configuratio
 ### 🏗️ Docker-Powered Homelab
 My personal playground for self-hosting and infrastructure management. Orchestrated with Docker and Traefik, focusing on high availability and automated TLS management.
 <br>
-[![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/my_homelab) [![Check Status](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://snapshots.raintank.io/dashboard/snapshot/nflSU4RwkKH3jz1oVpHgTlDnlIdEUEry?orgId=0&from=2026-02-18T08:54:50.653Z&to=2026-02-18T14:54:50.653Z&timezone=browser&var-host=$__all&var-container=$__all)
+[![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/my_homelab) [![Live Demo](https://img.shields.io/badge/Check_Status-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://snapshots.raintank.io/dashboard/snapshot/nflSU4RwkKH3jz1oVpHgTlDnlIdEUEry?orgId=0&from=2026-02-18T08:54:50.653Z&to=2026-02-18T14:54:50.653Z&timezone=browser&var-host=$__all&var-container=$__all)
 
 
 ### ✨ 3D Immersive Portfolio
