@@ -72,29 +72,33 @@ Workstation/
 
 ## Things I've Built
 
+### ⚡ Sible - Lightweight Ansible Orchestrator
+A sovereign, "Zero-Bloat" UI for Ansible designed for SREs and DevOps. Built with FastAPI and HTMX, it features real-time WebSocket logging, agentless SSH execution, and a secure, GitOps-friendly workflow.
+[View Source](https://github.com/adam-benyekkou/Sible)
+
+### 🔒 Whisp - Secrets Management System
+A secure, self-hosted vault for managing infrastructure secrets and configuration. Built with FastAPI and Cryptography (Fernet), it features AES-256 encryption, ephemeral access tokens, and a developer-friendly API designed for seamless integration with Docker and CI/CD pipelines.
+[View Source](https://github.com/adam-benyekkou/Whisp)
+
+### 🏗️ Docker-Powered Homelab
+My personal playground for self-hosting and infrastructure management. Orchestrated with Docker and Traefik, focusing on high availability and automated TLS management.
+[View Source](https://github.com/adam-benyekkou/my_homelab)
+
+### ✨ 3D Immersive Portfolio
+A high-performance showcase built with Angular and Three.js. It features interactive 3D environments to bridge the gap between documentation and creative web experiences.
+[View Source](https://github.com/adam-benyekkou/my_portfolio)
+
+### 🗺️ Mobility Simulation Interface
+A professional dashboard developed with Python Dash for the open-source "Mobility" library, allowing complex displacement simulations via a GUI, and a complete automated testing strategy with Pytest.
+[View Source](https://github.com/adam-benyekkou/mobility-web)
+
 ### 🐹 CavyDev Blog
 My "Build in Public" headquarters. A custom platform where I document technical deep-dives into cloud architecture, automation, and the philosophy of modern engineering.
 [Read the deep-dives](https://cavydev.com)
 
-### 🏗️ Docker-Powered Homelab
-My personal playground for self-hosting and infrastructure management. Orchestrated with Docker and Traefik, focusing on high availability and automated TLS management.
-[View Source](#)
-
-### ⚡ Sible - Lightweight Ansible Orchestrator
-A sovereign, "Zero-Bloat" UI for Ansible designed for SREs. Built with FastAPI and HTMX, it features real-time WebSocket logging, agentless SSH execution, and a secure, GitOps-friendly workflow.
-[View Source](#)
-
-### ✨ 3D Immersive Portfolio
-A high-performance showcase built with Angular and Three.js. It features interactive 3D environments to bridge the gap between documentation and creative web experiences.
-[View Source](#)
-
-### 🗺️ Mobility Simulation Interface
-A professional dashboard developed with Python Dash for the open-source "Mobility" library, allowing complex displacement simulations via a GUI, and a complete automated testing strategy with Pytest.
-[View Source](#)
-
 ### 🛒 GreenRoots Sustainable E-Commerce Platform
 An eco-conceived, high-performance shop built with React and Express, featuring Stripe integration and custom JWT Authentication.
-[View Source](#)
+[View Source](https://github.com/adam-benyekkou/greenroots-ecom)
 
 <br>
 
@@ -104,7 +108,6 @@ An eco-conceived, high-performance shop built with React and Express, featuring 
 
 *   **Cloud Infrastructure:** Automating my Hetzner environment using Terraform & Ansible for full "Reproducible Labs".
 *   **Enterprise Backend:** Mastering Java & Spring Boot ecosystem for building robust, type-safe microservices.
-*   **Visual Computing:** Exploring 3D experiences and interactive front-ends with Three.js.
 *   **GitOps Methodology:** Transitioning manual Docker deployments toward automated GitOps workflows.
 
 <br>
@@ -113,6 +116,7 @@ An eco-conceived, high-performance shop built with React and Express, featuring 
 
 - [Email](mailto:cavy.protocol.dev@proton.me)
 - [LinkedIn](https://www.linkedin.com/in/adambnk/)
+- [Portfolio](https://portfolio.cavydev.com/)
 - [Blog](https://cavydev.com)
 
 <br>
