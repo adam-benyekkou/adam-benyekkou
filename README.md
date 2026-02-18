@@ -69,7 +69,7 @@ A sovereign, "Zero-Bloat" UI for Ansible designed for SREs and DevOps. Built wit
 ### 🔒 Whisp - Secrets Management System
 A secure, self-hosted vault for managing infrastructure secrets and configuration. Built with FastAPI and Cryptography (Fernet), it features AES-256 encryption, ephemeral access tokens, and a developer-friendly API designed for seamless integration with Docker and CI/CD pipelines.
 <br>
-[![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Whisp)
+[![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Whisp) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://whisp.cavydev.com/)
 
 ### 🏗️ Docker-Powered Homelab
 My personal playground for self-hosting and infrastructure management. Orchestrated with Docker and Traefik, focusing on high availability and automated TLS management.
