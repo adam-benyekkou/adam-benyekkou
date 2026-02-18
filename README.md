@@ -94,7 +94,7 @@ A professional dashboard developed with Python Dash for the open-source "Mobilit
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/milestone-24.svg" width="25" height="25" /> Infrastructure Roadmap 2026
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/milestone-24.svg" width="25" height="25" /> My 2026 Roadmap
 
 * **Cloud Native Migration:** Upgrading infrastructure from Docker Compose to **Kubernetes (K3s)** to implement self-healing and auto-scaling capabilities.
 * **GitOps Evolution:** Replacing push-based Ansible deployments with pull-based **ArgoCD** pipelines for fully declarative, audit-friendly cluster management.
