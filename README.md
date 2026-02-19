@@ -1,5 +1,4 @@
-# Unit Profile: Adam Benyekkou - Junior Dev & DevOps
-
+# Unit Profile: Adam Benyekkou - Systems & Ops Engineer | Aspiring DevOps/SRE
 <div align="center">
   <pre>
   Status: Operational / Senior Support Specialist
@@ -13,9 +12,9 @@
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-24.svg" width="25" height="25" /> About The Operator
 
-I am a **Senior Support Specialist** transitioning into a dual **Junior Developer & DevOps** role. I bridge the gap between clean, scalable code and resilient, automated infrastructure.
+Systems Reliability & Automation Specialist -> With years of experience in Senior Systems Support and a degree in Software Development, I focus on building resilient, self-healing infrastructure. 
 
-I "Build in Public" on my blog, documenting technical deep-dives into cloud architecture and the philosophy of modern engineering.
+I treat infrastructure as code and documentation as a core engineering pillar. Currently focused on mastering the transition from managed services to sovereign, self-hosted cloud architectures.
 <br>
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rss-24.svg" width="25" height="25" /> Latest Blog Transmissions
