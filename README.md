@@ -61,20 +61,17 @@ I treat infrastructure as code and documentation as a core engineering pillar. C
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="25" height="25" /> Things I've Built
 
-### 🐳 Dredge - Lightweight Ansible Orchestrator
-<img src="assets/images/dredge_logo.png" align="right" width="120" alt="Dredge Logo">
+### <img src="assets/images/dredge_logo.png" width="28" height="28" /> Dredge - Lightweight Ansible Orchestrator
 A specialized tool for Docker image lifecycle management and storage cost optimization. It provides real-time visibility into "silent bill creep" across GHCR, Docker Hub, and local registries, featuring a "Deep Harbor" HTMX UI for automated bloat detection and quarantine-based cleanup policies.
 <br>
 [![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Dredge) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://dredge-demo.cavydev.com/)
 
-### ⚡ Sible - Lightweight Ansible Orchestrator
-<img src="assets/images/sible-logo.png" align="right" width="120" alt="Sible Logo">
+### <img src="assets/images/sible-logo.png" width="28" height="28" /> Sible - Lightweight Ansible Orchestrator
 A sovereign, "Zero-Bloat" UI for Ansible designed for SREs and DevOps. Built with FastAPI and HTMX, it features real-time WebSocket logging, agentless SSH execution, and a secure, GitOps-friendly workflow.
 <br>
 [![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Sible)
 
-### 🔒 Whisp - Secrets Management System
-<img src="assets/images/whisp-logo.svg" align="right" width="120" alt="Whisp Logo">
+### <img src="assets/images/whisp-logo.svg" width="28" height="28" /> Whisp - Secrets Management System
 A secure, self-hosted vault for managing infrastructure secrets and configuration. Built with FastAPI and Cryptography (Fernet), it features AES-256 encryption, ephemeral access tokens, and a developer-friendly API designed for seamless integration with Docker and CI/CD pipelines.
 <br>
 [![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Whisp) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://whisp.cavydev.com/)
