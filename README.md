@@ -61,7 +61,7 @@ I treat infrastructure as code and documentation as a core engineering pillar. C
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="25" height="25" /> Things I've Built
 
-### ⚡ Dredge - Lightweight Ansible Orchestrator
+### 🐳 Dredge - Lightweight Ansible Orchestrator
 A specialized tool for Docker image lifecycle management and storage cost optimization. It provides real-time visibility into "silent bill creep" across GHCR, Docker Hub, and local registries, featuring a "Deep Harbor" HTMX UI for automated bloat detection and quarantine-based cleanup policies.
 <br>
 [![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Dredge) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://dredge-demo.cavydev.com/)
