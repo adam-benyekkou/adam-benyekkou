@@ -28,34 +28,12 @@ I treat infrastructure as code and documentation as a core engineering pillar. C
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/stack-24.svg" width="25" height="25" /> Tech Stack & Arsenal
 
-### ☁️ Infrastructure & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24a1c1?style=flat-square&logo=traefik&logoColor=white)
-
-### 🛡️ Security & Observability
-![Vault](https://img.shields.io/badge/Vault-FFE01B?style=flat-square&logo=vault&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Authentik](https://img.shields.io/badge/Authentik-FD4B1D?style=flat-square&logo=authentik&logoColor=white)
-
-### 💻 Backend & AI Engineering
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-Agentic_AI-blueviolet?style=flat-square)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-### 🎨 Frontend & Hypermedia
-![HTMX](https://img.shields.io/badge/HTMX-3D4387?style=flat-square&logo=htmx&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+| Category | Tech Arsenal |
+| :--- | :--- |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-24a1c1?style=flat-square&logo=traefik&logoColor=white) |
+| **Security/Obs** | ![Vault](https://img.shields.io/badge/Vault-FFE01B?style=flat-square&logo=vault&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Authentik](https://img.shields.io/badge/Authentik-FD4B1D?style=flat-square&logo=authentik&logoColor=white) |
+| **Backend/AI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-Agentic_AI-blueviolet?style=flat-square) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
+| **Frontend** | ![HTMX](https://img.shields.io/badge/HTMX-3D4387?style=flat-square&logo=htmx&logoColor=white) ![Alpine](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) |
 
 <br>
 
