@@ -4,6 +4,7 @@
   Status: Operational / Senior Support Specialist
   Specialization: Junior Developer & DevOps Engineering
   Inventory: 6 Guinea Pigs (All systems stable)
+  <b>Meta: <a href="https://portfolio.cavydev.com/">View 3D Immersive Portfolio</a></b>
   </pre>
 </div>
 
@@ -60,6 +61,11 @@ I treat infrastructure as code and documentation as a core engineering pillar. C
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-24.svg" width="25" height="25" /> Things I've Built
 
+### ⚡ Dredge - Lightweight Ansible Orchestrator
+A specialized tool for Docker image lifecycle management and storage cost optimization. It provides real-time visibility into "silent bill creep" across GHCR, Docker Hub, and local registries, featuring a "Deep Harbor" HTMX UI for automated bloat detection and quarantine-based cleanup policies.
+<br>
+[![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Dredge) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://dredge-demo.cavydev.com/)
+
 ### ⚡ Sible - Lightweight Ansible Orchestrator
 A sovereign, "Zero-Bloat" UI for Ansible designed for SREs and DevOps. Built with FastAPI and HTMX, it features real-time WebSocket logging, agentless SSH execution, and a secure, GitOps-friendly workflow.
 <br>
@@ -74,12 +80,6 @@ A secure, self-hosted vault for managing infrastructure secrets and configuratio
 My personal playground for self-hosting and infrastructure management. Orchestrated with Docker and Traefik, focusing on high availability and automated TLS management.
 <br>
 [![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/my_homelab) [![Live Demo](https://img.shields.io/badge/Check_Status-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://snapshots.raintank.io/dashboard/snapshot/nflSU4RwkKH3jz1oVpHgTlDnlIdEUEry?orgId=0&from=2026-02-18T08:54:50.653Z&to=2026-02-18T14:54:50.653Z&timezone=browser&var-host=$__all&var-container=$__all)
-
-
-### ✨ 3D Immersive Portfolio
-A high-performance showcase built with Angular and Three.js. It features interactive 3D environments to bridge the gap between documentation and creative web experiences.
-<br>
-[![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/my_portfolio) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.cavydev.com/)
 
 ### 🛒 GreenRoots Sustainable E-Commerce Platform
 A high-fidelity sustainable e-commerce platform engineered for automated delivery, featuring multi-environment Docker orchestration and rigorous Playwright E2E testing.
