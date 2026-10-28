@@ -1,8 +1,8 @@
-# Unit Profile: Adam Benyekkou - Systems & Ops Engineer | Aspiring DevOps/SRE
+# Unit Profile: Adam Benyekkou - DevSecOps & Cloud Engineer
 <div align="center">
   <pre>
-  Status: Operational / Senior Support Specialist
-  Specialization: Junior Developer & DevOps Engineering
+  Status: Operational
+  Specialization: DevSecOps & Cloud Engineer
   Inventory: 6 Guinea Pigs (All systems stable)
   <b>Meta: <a href="https://portfolio.cavydev.com/">View 3D Immersive Portfolio</a></b>
   </pre>
@@ -13,7 +13,7 @@
 
 ## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-24.svg" width="25" height="25" /> About The Operator
 
-Systems Reliability & Automation Specialist -> With years of experience in Senior Systems Support and a degree in Software Development, I focus on building resilient, self-healing infrastructure. 
+DevSecOps & Cloud Engineer -> With years of experience in Senior Systems Support and a degree in Software Development, I focus on building resilient, self-healing infrastructure. 
 
 I treat infrastructure as code and documentation as a core engineering pillar. Currently focused on mastering the transition from managed services to sovereign, self-hosted cloud architectures.
 <br>
@@ -26,7 +26,7 @@ I treat infrastructure as code and documentation as a core engineering pillar. C
 - [The “Act First” Disaster: Why AI Hype is a Security Nightmare](https://cavydev.com/the-act-first-disaster-why-ai-hype-is-a-security-nightmare/?utm_source=rss&utm_medium=rss&utm_campaign=the-act-first-disaster-why-ai-hype-is-a-security-nightmare)
 <br>
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/stack-24.svg" width="25" height="25" /> Tech Stack & Arsenal
+## <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/stack-24.svg" width="25" height="25" /> Tech Arsenal
 
 | Category | Tech Arsenal |
 | :--- | :--- |
@@ -42,7 +42,7 @@ I treat infrastructure as code and documentation as a core engineering pillar. C
 ### <img src="assets/images/dredge_logo.png" width="28" height="28" style="vertical-align: middle;" /> Dredge - Lightweight Ansible Orchestrator
 A specialized tool for Docker image lifecycle management and storage cost optimization. It provides real-time visibility into "silent bill creep" across GHCR, Docker Hub, and local registries, featuring a "Deep Harbor" HTMX UI for automated bloat detection and quarantine-based cleanup policies.
 <br>
-[![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Dredge) [![Live Demo](https://img.shields.io/badge/Live_Demo-2EA44F?style=for-the-badge&logo=firefox&logoColor=white)](https://dredge-demo.cavydev.com/)
+[![View Source](https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adam-benyekkou/Dredge)
 
 ### <img src="assets/images/sible-logo.png" width="28" height="28" style="vertical-align: middle;" /> Sible - Lightweight Ansible Orchestrator
 A sovereign, "Zero-Bloat" UI for Ansible designed for SREs and DevOps. Built with FastAPI and HTMX, it features real-time WebSocket logging, agentless SSH execution, and a secure, GitOps-friendly workflow.
